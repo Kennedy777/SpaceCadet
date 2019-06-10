@@ -1,0 +1,17 @@
+body {
+    color: "green";
+    background-color: #7FDBFF;
+    margin: 20px;
+    padding: 10px;
+  }
+
+.container {
+  background: url('./../../img/spacecat.jpg')no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  width: auto;
+}
+
+.results {
+  display: none;
+}
